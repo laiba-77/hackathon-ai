@@ -1,0 +1,4 @@
+[atm]
+min_withdrawal = 10
+max_withdrawal = 1000
+currency = "USD"
